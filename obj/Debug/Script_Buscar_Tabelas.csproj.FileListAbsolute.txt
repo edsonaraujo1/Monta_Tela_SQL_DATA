@@ -1,0 +1,7 @@
+C:\Shared\Dev\Script_Buscar_Tabelas\bin\Debug\Script_Buscar_Tabelas.exe.config
+C:\Shared\Dev\Script_Buscar_Tabelas\bin\Debug\Script_Buscar_Tabelas.exe
+C:\Shared\Dev\Script_Buscar_Tabelas\bin\Debug\Script_Buscar_Tabelas.pdb
+C:\Shared\Dev\Script_Buscar_Tabelas\obj\Debug\Script_Buscar_Tabelas.csproj.AssemblyReference.cache
+C:\Shared\Dev\Script_Buscar_Tabelas\obj\Debug\Script_Buscar_Tabelas.csproj.CoreCompileInputs.cache
+C:\Shared\Dev\Script_Buscar_Tabelas\obj\Debug\Script_Buscar_Tabelas.exe
+C:\Shared\Dev\Script_Buscar_Tabelas\obj\Debug\Script_Buscar_Tabelas.pdb
